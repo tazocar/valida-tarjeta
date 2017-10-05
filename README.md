@@ -1,10 +1,9 @@
-# Cifrado Cesar
+# Validación Tarjeta
 
 En este proyecto creamos un programa que confirma o rechaza la validez de una tarjeta de crédito, utilizando el algorítmo de Luhn.
 
 ### Utilidad
-+ Cifrar mensajes
-+ Descifrar mensajes
++ Validar números de tarjeta
 
 ### Cifrado
 + Llamar a la función
